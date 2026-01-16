@@ -1,7 +1,5 @@
 # Dashboard Preview Image for the above project.
 
-<img width="1433" alt="DashBoard Image" src="https://raw.githubusercontent.com/Gokul-Raja84/Data-Analysis-in-Excel/main/1.%20Ecommerce%20Sales%20Analysis%20Dashboard/DashBoard%20Image.png">
-
 # **Ecommerce Sales Analysis Dashboard**
 
 The "Ecommerce Sales Analysis Dashboard" project entailed a comprehensive examination of sales and profit data within the e-commerce domain. Through diligent data analysis in Microsoft Excel, the following key insights and visualizations were generated:
